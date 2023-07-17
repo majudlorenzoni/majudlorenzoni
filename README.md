@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**majudlorenzoni/majudlorenzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Bolsista do PET Computação
 - 🌱 Estudando C# e Unity
