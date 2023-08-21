@@ -1,6 +1,6 @@
 
 - 🔭 Bolsista do PET Computação
-- 🌱 Estudando C# e Unity
+- 🌱 Estudando C++ e Unity
 - 💬 Estudante de Ciência da Computação na UFPel.
 
 <div style="display: inline_block"><br>
