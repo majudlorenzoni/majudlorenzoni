@@ -1,4 +1,4 @@
-- 🌱 Estudando C++ e Unity
+- 🌱 Estudando WebGL e C++
 - 🔭 Bolsista do PET Computação
 - 💬 Estudante de Ciência da Computação na UFPel.
 
