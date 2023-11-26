@@ -1,4 +1,4 @@
-- 🌱 Estudando WebGL e C++
+- 🌱 Estudando WebGL e Three.JS
 - 🔭 Bolsista do PET Computação
 - 💬 Estudante de Ciência da Computação na UFPel.
 
