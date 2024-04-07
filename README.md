@@ -1,3 +1,5 @@
+### Olá, eu sou a Maria Júlia!
+
 - 🌱 Estudando JavaScript, React e Java
 - 🔭 Bolsista do PET Computação
 - 💭 Pesquisando sobre Computação Gráfica
