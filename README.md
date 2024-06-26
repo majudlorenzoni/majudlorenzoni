@@ -1,7 +1,7 @@
 ### Olá, eu sou a Maria Júlia!
 
-- 🌱 Estudando JavaScript, React e Java
-- 🔭 Bolsista do PET Computação
+- 🌱 Estudando Typescript, Back-end e React
+- 🔭 Estagiária em Inovação
 - 💭 Pesquisando sobre Computação Gráfica
 - 💬 Estudante de Ciência da Computação na UFPel
   
