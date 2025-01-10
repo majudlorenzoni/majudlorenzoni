@@ -1,8 +1,7 @@
 ### Olá, eu sou a Maria Júlia!
 
 - 🌱 Estudando Typescript, Back-end e React
-- 🔭 Estagiária em Inovação
-- 💭 Pesquisando sobre Computação Gráfica
+- 🔭 Estagiária em Desenvolvimento de Software
 - 💬 Estudante de Ciência da Computação na UFPel
   
 <div style="display: inline_block;">
