@@ -26,5 +26,3 @@
   <img  alt="maju-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="maju-unity"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" />
 </div><br>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majudlorenzoni&layout=compact&bg_color=ad130e&border_color=ff2626&title_color=fff8f7&text_color=FFF)
