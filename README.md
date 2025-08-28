@@ -5,9 +5,9 @@
 - 💬 Estudante de Ciência da Computação na UFPel
   
 <div style="display: inline_block;">
-  <a href="https://majudlorenzoni.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
+  <a href="https://majudlorenzoni.github.io/portfolio-maju/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliamaria892@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-j%C3%BAlia-lorenzoni-b09489230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariajulialorenzoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 <div style="display: inline_block;">
   <img alt="maju-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
