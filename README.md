@@ -1,8 +1,8 @@
 ### Olá, eu sou a Maria Júlia!
 
-- 🌱 Estudando Typescript, Back-end e React
-- 🔭 Estagiária em Desenvolvimento de Software
-- 💬 Estudante de Ciência da Computação na UFPel
+- 🌱 Atualmente estudando Python e SQL
+- 🔭 Desenvolvedora de Software
+- 💬 Cientista da Computação na UFPel
   
 <div style="display: inline_block;">
   <a href="https://majudlorenzoni.github.io/portfolio-maju/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
