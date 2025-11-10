@@ -1,6 +1,6 @@
 ### Olá, eu sou a Maria Júlia!
 
-- 🌱 Atualmente estudando Python, SQL e React Native
+- 🌱 Atualmente estudando Java, SQL e React Native
 - 🔭 Desenvolvedora de Software
 - 💬 Cientista da Computação na UFPel
   
