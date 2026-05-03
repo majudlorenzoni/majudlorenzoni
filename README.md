@@ -1,10 +1,10 @@
-### Olá, eu sou a Maria Júlia! 👋
+### Hi, I'm Maria Júlia Lorenzoni!
 
-- 🔭 Desenvolvedora Full Stack Júnior — foco em React, TypeScript e Nest.js
-- 🎓 Mestranda em Ciência da Computação e Matemática Computacional na **USP**
-- 🤖 Apaixonada por **IA Generativa, LLMs e RAG** aplicados em produtos reais
-- 🌱 Atualmente aprofundando estudos em **arquitetura de software, testes e observabilidade**
-- 💬 Bacharela em Ciência da Computação pela UFPel
+- **Junior Full Stack Developer — focused on React, TypeScript and Nest.js**
+- MSc student in Computer Science and Computational Mathematics at USP
+- Passionate about **Generative AI, LLMs and RAG** applied to real products
+- Currently deepening my studies in **software architecture, testing and observability**
+- Bachelor's degree in Computer Science from UFPel
 
 <br>
 <div style="display: inline-block;">
@@ -46,7 +46,7 @@
 
 <br>
 
-**Banco de dados**
+**Databases**
 
 <div>
   <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
