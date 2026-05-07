@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Júlia Lorenzoni!
 
-- **Junior Full Stack Developer — focused on React, TypeScript and Nest.js**
+- **Junior Full Stack Developer — focused on React, TypeScript and Java**
 - MSc student in Computer Science and Computational Mathematics at USP
 - Passionate about **Generative AI, LLMs and RAG** applied to real products
 - Currently deepening my studies in **software architecture, testing and observability**
